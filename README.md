@@ -1,16 +1,40 @@
-## Hi there 👋
+# QA API Automation Framework
 
-<!--
-**NehaChawla-tech/NehaChawla-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+API automation framework designed for validating REST APIs using Postman and Newman.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Features
+
+- REST API Testing
+- CRUD API Validation
+- Positive & Negative Test Scenarios
+- Status Code Validation
+- Response Validation
+- Newman Reports
+
+---
+
+# 🛠 Tech Stack
+
+- Postman
+- Newman
+- JavaScript
+
+---
+
+# 📌 APIs Tested
+
+https://reqres.in
+
+Test Scenarios:
+- GET Users
+- CREATE User
+- UPDATE User
+- DELETE User
+
+---
+
+# 👩‍💻 Author
+
+Neha Chawla
