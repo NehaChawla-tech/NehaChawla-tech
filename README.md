@@ -1,40 +1,31 @@
-# QA API Automation Framework
+👋 Hi, I'm Neha Chawla
+Senior QA Automation Engineer | 7+ Years Experience
 
-API automation framework designed for validating REST APIs using Postman and Newman.
+I specialize in building scalable automation frameworks for modern web applications using Playwright, API automation, and CI/CD pipelines.
 
----
+🔹 Core Skills
+Playwright
+TypeScript
+API Testing
+Postman
+Newman
+GitHub Actions
+Selenium
+Java
+Jira
+BrowserStack
+🚀 Featured Projects
 
-# 🚀 Features
+🟢 Playwright E2E Automation Framework
 
-- REST API Testing
-- CRUD API Validation
-- Positive & Negative Test Scenarios
-- Status Code Validation
-- Response Validation
-- Newman Reports
+🟢 API Automation Framework
 
----
+🟢 HTML Reporting
 
-# 🛠 Tech Stack
-
-- Postman
-- Newman
-- JavaScript
-
----
-
-# 📌 APIs Tested
-
-https://reqres.in
-
-Test Scenarios:
-- GET Users
-- CREATE User
-- UPDATE User
-- DELETE User
-
----
-
-# 👩‍💻 Author
-
-Neha Chawla
+💼 What I Can Help With
+UI Test Automation
+API Automation
+Regression Suites
+Cross-browser Testing
+CI/CD Integration
+Test Framework Development
