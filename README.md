@@ -22,7 +22,8 @@ BrowserStack
 
 🟢 HTML Reporting
 
-💼 What I Can Help With
+💼 What I Can Help With:
+
 UI Test Automation
 API Automation
 Regression Suites
