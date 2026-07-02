@@ -1,32 +1,29 @@
 👋 Hi, I'm Neha Chawla
-Senior QA Automation Engineer | 7+ Years Experience
 
-I specialize in building scalable automation frameworks for modern web applications using Playwright, API automation, and CI/CD pipelines.
+Senior QA Automation Engineer
 
-🔹 Core Skills
-Playwright
-TypeScript
-API Testing
-Postman
-Newman
-GitHub Actions
-Selenium
-Java
-Jira
-BrowserStack
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✔ 7+ Years Experience
+
+✔ Playwright
+
+✔ API Automation
+
+✔ TypeScript
+
+✔ CI/CD
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 Featured Projects
 
-🟢 Playwright E2E Automation Framework
+🟢 Playwright Framework
 
-🟢 API Automation Framework
+🟢 API Framework
 
-🟢 HTML Reporting
+🟢 HTML Reports
 
-💼 What I Can Help With:
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-UI Test Automation
-API Automation
-Regression Suites
-Cross-browser Testing
-CI/CD Integration
-Test Framework Development
+💼 Available for Freelance QA Automation
